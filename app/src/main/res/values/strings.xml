@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MODUL2</string>
+    <string name="text_calculate_salary">Hitung Gaji</string>
+    <string name="text_married">Menikah</string>
+    <string name="text_input_your_name">Masukan Nama Anda :</string>
+    <string name="text_status">Sudah Menikah?</string>
+    <string name="text_golongan">Golongan</string>
+    <string name="text_golongan_1">Golongan 1</string>
+    <string name="text_golongan_2">Golongan 2</string>
+    <string name="text_your_total_salary">Total Gaji Anda :</string>
+    <string name="text_name">Nama :</string>
+    <string name="text_gol">Golongan :</string>
+    <string name="text_calculate_result">Hasil Perhitungan</string>
+    <string name="text_calculate">HASIL PERHITUNGAN</string>
+</resources>
